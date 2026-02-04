@@ -1,0 +1,8 @@
+---
+title: "SECONDO TITOLO DELL'ESERCIZIO"
+date: 2026-02-04
+food: Pizza
+---
+<h1>questo è un esempio </h1>
+<h2>di una entrata di un post</h2>
+<h3>{{ page.food }}</h3>
